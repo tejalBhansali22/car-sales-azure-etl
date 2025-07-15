@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-tejal",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2777258f-521c-4345-9769-4d64f0181d41",
+		"tenantId": "bbfafe76-ad74-43ac-ab10-e442b937b678"
+	}
+}
